@@ -1,3 +1,4 @@
+// without int main()
 double my_pow(double x, unsigned int y)
 {
   double result;
